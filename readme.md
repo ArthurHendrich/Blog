@@ -5,6 +5,7 @@
 - ReactJS
 - NextJS
 - Typescript
+- SCSS
 - CMS: Prismic
 
 <br><br>
